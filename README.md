@@ -1,2 +1,2 @@
 # donk
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![](https://i.imgur.com/KKNj3ge.jpg)
