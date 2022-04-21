@@ -1,2 +1,2 @@
 # donk
-![](https://i.imgur.com/KKNj3ge.jpg)
+![](https://i.imgur.com/KKNj3ge.jpg | width=512)
